@@ -16,8 +16,8 @@
         "php": ">=5.3.2",
         "phly/mustache": "1.0.*",
         "imagine/Imagine": "0.2.*",
-        "symfony/console": ">=2.0,<2.2",
-        "symfony/finder": ">=2.0,<2.2"
+        "symfony/console": ">=2.0",
+        "symfony/finder": ">=2.0"
     },
 
     "require-dev": {
